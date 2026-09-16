@@ -22,3 +22,4 @@ Applied margins padding and borders
 Included static relative and absolute positioning
 Used px em rem and percent units
 Included float and clear layout rules
+<img width="460" height="759" alt="image" src="https://github.com/user-attachments/assets/a68e9a78-9086-469a-832a-edda6f1c4ccb" />
